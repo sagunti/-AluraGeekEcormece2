@@ -1,0 +1,141 @@
+{
+  "producto": [
+    {
+      "nombre": "Dart Maul",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(1).png",
+      "precio": "100",
+      "categoria": "Star wars",
+      "descripcion": "descrpcion",
+      "id": 1
+    },
+    {
+      "nombre": "Baby Yoda",
+      "precio": "600",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(2).png",
+      "descripcion": "Peluche de 30cm agradable al tacto, con él podrás alcanzar la luz y tendrás los mejores sueños ",
+      "id": 2,
+      "categoria": "Star wars"
+    },
+    {
+      "nombre": "Yoda",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(4).png",
+      "precio": "55",
+      "categoria": "Star wars",
+      "descripcion": "Figura de 20 centimetros",
+      "id": "f8ab4459-003b-4903-8594-64d925bdbd9b"
+    },
+    {
+      "nombre": "Lego Star wars",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(5).png",
+      "precio": "50",
+      "categoria": "Star wars",
+      "descripcion": "Lego 125 piezas",
+      "id": "721e38ad-55b9-4e29-bbe0-d5073481d998"
+    },
+    {
+      "nombre": "gdasfsd",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(1).png",
+      "precio": "50",
+      "categoria": "Consolas",
+      "descripcion": "fasfsa",
+      "id": "68f5b9b9-075d-4c60-91c1-e68489cc3b73"
+    },
+    {
+      "nombre": "Mando",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(2).png",
+      "precio": "4000",
+      "categoria": "Consolas",
+      "descripcion": "Mando para Xbox",
+      "id": "aea7295a-485c-4b5c-a588-ebb7e0bf101a"
+    },
+    {
+      "nombre": "y yo que se",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(3).png",
+      "precio": "654684",
+      "categoria": "Consolas",
+      "descripcion": "es algo",
+      "id": "34a3cbef-5c7d-425a-a31a-444a21d9a154"
+    },
+    {
+      "nombre": "Nombre 2",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(4).png",
+      "precio": "465",
+      "categoria": "Consolas",
+      "descripcion": "ehehewkhlskvsdf",
+      "id": "b420582e-c316-4d62-9aa0-6ff708472323"
+    },
+    {
+      "nombre": "Nombre 2",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(5).png",
+      "precio": "465",
+      "categoria": "Consolas",
+      "descripcion": "ehehewkhlskvsdf",
+      "id": "618b5099-91a4-4d06-923b-e33eea414b58"
+    },
+    {
+      "nombre": "Nombre 2",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(6).png",
+      "precio": "465",
+      "categoria": "Consolas",
+      "descripcion": "ehehewkhlskvsdf",
+      "id": "583b883e-a29c-438e-960f-ccc3ab33477f"
+    },
+    {
+      "nombre": "Un producto varios",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(6).png",
+      "precio": "50",
+      "categoria": "Varios",
+      "descripcion": "es producto de los varios",
+      "id": "63076e06-c428-40c5-9988-081111a9aff5"
+    },
+    {
+      "nombre": "PS4",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(4).png",
+      "precio": "300",
+      "categoria": "Consolas",
+      "descripcion": "ps4 1tb",
+      "id": "ff0e3b5f-eb75-4b0a-82ab-0f35062830a1"
+    },
+    {
+      "nombre": "PS4",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(4).png",
+      "precio": "300",
+      "categoria": "Consolas",
+      "descripcion": "ps4 1tb",
+      "id": "391140b2-3a02-4451-b0e0-86afdb967e8a"
+    },
+    {
+      "nombre": "PS4",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(3).png",
+      "precio": "300",
+      "categoria": "Consolas",
+      "descripcion": "ps4 1tb",
+      "id": "0a87bed2-07ea-4d48-a121-dd6fed95113a"
+    },
+    {
+      "nombre": "PS5",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(4).png",
+      "precio": "6000",
+      "categoria": "Consolas",
+      "descripcion": "Consola PS5",
+      "id": "b67558c3-1fd2-4141-999a-e129ea138154"
+    },
+    {
+      "nombre": "fdsfsdg",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/consola%20(5).png",
+      "precio": "1000",
+      "categoria": "Varios",
+      "descripcion": "vdgsdgads",
+      "id": "23dc511a-c7ba-4ee1-9fac-d10f288d6445"
+    },
+    {
+      "nombre": "nuevo producto",
+      "url": "https://raw.githubusercontent.com/SoledadCatalano/AluraGeekEcormece/main/assets/imagenes/starwars%20(2).png",
+      "precio": "100",
+      "categoria": "Star wars",
+      "descripcion": "es nuevo este produc",
+      "id": "b11314db-836e-40d8-a809-b1deaed12668"
+    }
+    
+  ]
+}
