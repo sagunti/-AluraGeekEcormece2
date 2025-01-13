@@ -1,4 +1,16 @@
-const listaProductos= () => fetch("https://sagunti.github.io/-AluraGeekEcormece2/db.json").then(respuesta => respuesta.json());
+const listaProductos = async () => {
+  try {
+    const respuesta = await fetch(
+      "https://sagunti.github.io/-AluraGeekEcormece2/db.json"
+    );
+    const data = await respuesta.json();
+    return data.productos;
+  } catch (error) {
+    return console.log(error);
+  }
+};
+
+
 
 const crearproducto = (nombre,url,precio,categoria,descripcion) => 
 {
