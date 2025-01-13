@@ -1,8 +1,8 @@
-const listaProductos= () => fetch("sagunti.github.io/-AluraGeekEcormece2/db.json").then(respuesta => respuesta.json());
+const listaProductos= () => fetch("https://sagunti.github.io/-AluraGeekEcormece2/db.json").then(respuesta => respuesta.json());
 
 const crearproducto = (nombre,url,precio,categoria,descripcion) => 
 {
-    return fetch("sagunti.github.io/-AluraGeekEcormece2/db.json", {
+    return fetch("https://sagunti.github.io/-AluraGeekEcormece2/db.json", {
         method:"POST",
         headers:{
             "Content-Type":"application/json",
@@ -26,19 +26,19 @@ const crearproducto = (nombre,url,precio,categoria,descripcion) =>
 
 //esto es para ver el detalle
 const detalleProducto = (id) => {
-    return fetch(`sagunti.github.io/-AluraGeekEcormece2/db.json/${id}`).then(respuesta =>
+    return fetch(`https://sagunti.github.io/-AluraGeekEcormece2/db.json/${id}`).then(respuesta =>
       respuesta.json()
     );
   };
 
   const eliminarProducto = (id) => {
-    return fetch(`sagunti.github.io/-AluraGeekEcormece2/db.json/${id}`, {
+    return fetch(`https://sagunti.github.io/-AluraGeekEcormece2/db.json/${id}`, {
       method: "DELETE",
     });
   };
 
   const actualizarProducto = (nombre,url,precio,categoria,descripcion,id) => {
-    return fetch(`sagunti.github.io/-AluraGeekEcormece2/db.json/${id}`, {
+    return fetch(`https://sagunti.github.io/-AluraGeekEcormece2/db.json/${id}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
